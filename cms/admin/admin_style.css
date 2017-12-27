@@ -1,0 +1,12 @@
+body{background:black; padding:0; margin:0;}
+
+#header {color:white; width:100%; background:linear-gradient(50deg, rgb(81, 255, 182), rgb(87, 160, 255));; height:100px; border-bottom:5px solid blue;}
+
+#sidebar{width:250px; float:left; background:linear-gradient(140deg, rgb(81, 255, 182), rgb(87, 160, 255));; border-right:5px solid blue; height:600px;}
+
+#sidebar h2 {text-align:center; font-size:2em; color:white;}
+
+#header h1{color:white; font-size:3em; font-family:comic sans MS; text-align:center; padding-top:20px;}
+
+
+#welcome {margin:10px; padding:10px; text-align:center; color:white;}

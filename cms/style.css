@@ -1,0 +1,43 @@
+body {
+background:black;
+padding:0; 
+margin:0;
+}
+
+#header{width:1000px; height:100px; background:white; margin-left:auto; margin-right:auto;}
+
+#main_content{width:1000px; border-right:2px solid gray;  float:left; background:white; margin-left:32px;}
+
+#main_content p {padding:5px;}
+
+#main_content a:link{font-size:22px; font-family:comic sans MS;}
+
+#searchbox {text-align:center; margin:10px;}
+
+#main_content h2 {padding:5px; color:brown;}
+
+#sidebar{width:298px; float:right; background:gray; margin-right:130px;}
+
+#sidebar h2{font-size:33px; font-family:comic sans MS; color:yellow;}
+
+#footer{width:100%; height:80px; background:brown; clear:both;}
+
+
+#logo{float:left;}
+#banner{float:right;}
+
+#navbar{background:brown; width:1000px; margin-right:auto; margin-left:auto; height:45px; margin-top:0;}
+#navbar ul {padding-top:8px;}
+#navbar ul li{list-style:none; display:inline;}
+#navbar ul li a:link{color:white; border-right:1px solid white; text-decoration:none; font-size:18px; font-family:comic sans MS; margin:5px; padding:4px;}
+
+#navbar li a:visited{color:white;}
+
+#navbar ul li a:hover{color:white; text-decoration:underline; font-size:18px; background:black; padding:5px;}
+
+
+#social {text-align:center; border-bottom:2px solid yellow;}
+
+#social img {width:40px; margin:5px; padding:3px;}
+
+#social h2 {font-size:33px; font-family:comic sans MS; color:yellow;}
